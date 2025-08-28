@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Ibrahim  
 
-<!--
-**Ahmed-223q/Ahmed-223q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1400&q=80)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me  
+- 💡 A passionate **Front-End Developer** who loves creating clean & modern web designs.  
+- 🌱 Currently learning **React.js** and improving my problem-solving skills.  
+- 📍 From Giza, Egypt.  
+- 🎯 Goal: Become a **Full-Stack Developer**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Technologies I Work With  
+
+### Front-End:  
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- React.js  
+
+### Back-End (Learning Soon):  
+- Node.js  
+- Express.js  
+- MongoDB  
+
+### Tools:  
+- Git & GitHub  
+- VS Code  
+- Figma  
+
+---
+
+## 🚀 GitHub Stats  
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-223q&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-223q&layout=compact&theme=radical)  
+
+---
+
+## 📫 Contact Me  
+- 📧 Email: iprahemahmed383@gmail.com  
+- 🔗 [CodePen](https://codepen.io/ahmed-iprahem)  
+- 🌐 Portfolio (Coming Soon...)  
+
+---
+
+⭐️ From [Ahmed-223q](https://github.com/Ahmed-223q)
