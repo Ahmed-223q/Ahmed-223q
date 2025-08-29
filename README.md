@@ -13,21 +13,25 @@
 ## ⚙️ Technologies I Work With  
 
 ### Front-End:  
-- HTML5  
-- CSS3  
-- JavaScript (ES6)  
+- HTML
+- CSS
+- JavaScript (ES6)
+- Bootstrap
+- Material UI
+- Tailwind
+- Sass
 - React.js  
-
-### Back-End (Learning Soon):  
-- Node.js  
-- Express.js  
-- MongoDB  
-
+  
 ### Tools:  
-- Git & GitHub  
+- Git 
+- GitHub  
 - VS Code  
-- Figma  
+- Figma
+- Postman
 
+### Soft Skills
+- Responsive Design
+- Problem solving
 ---
 
 ## 🚀 GitHub Stats  
@@ -40,7 +44,6 @@
 
 ## 📫 Contact Me  
 - 📧 Email: iprahemahmed383@gmail.com  
-- 🔗 [CodePen](https://codepen.io/ahmed-iprahem)  
 - 🌐 Portfolio (Coming Soon...)  
 
 ---
