@@ -20,7 +20,9 @@
 - Material UI
 - Tailwind
 - Sass
-- React.js  
+- React.js
+- TypeScript (soon)
+- Jest (Soon)
   
 ### Tools:  
 - Git 
